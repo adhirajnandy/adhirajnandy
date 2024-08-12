@@ -23,7 +23,7 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,css,html,react,tailwind,github,codepen)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,css,html,react,tailwind,github,codepen,verilog)](https://skillicons.dev)
 </br>
 
 # 📊 GitHub Stats:
