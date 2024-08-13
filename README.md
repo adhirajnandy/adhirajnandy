@@ -14,7 +14,7 @@
 
 <!-- 🌱 I’m currently learning **Spline 3D Animations, Dart Frog and Java** </br> -->
 
-💬 Ask me about **,ReactJS, NodeJS, NextJS, Tailwind CSS**
+💬 Ask me about **,ReactJS, NodeJS, Bootstrap, Tailwind CSS**
 </br>
 
 <!-- # 🌐 Socials:
