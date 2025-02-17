@@ -8,13 +8,13 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on **Application Management Website and E-Commerce Website** </br>
+🔭 I’m currently working on **Blog Post Website** </br>
 
 🌐 Check out my [portfolio](https://portfolio-adhiraj.netlify.app/).
 
 <!-- 🌱 I’m currently learning **Spline 3D Animations, Dart Frog and Java** </br> -->
 
-💬 Ask me about **,ReactJS, NodeJS, Bootstrap, Tailwind CSS**
+💬 Ask me about **,ReactJS, NodeJS, Bootstrap, Tailwind CSS, Flask**
 </br>
 
 <!-- # 🌐 Socials:
