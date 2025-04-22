@@ -28,7 +28,7 @@
 
 # 📊 GitHub Stats:
 
-![GitSentinel's Stats](https://github-readme-stats.vercel.app/api?username=adhirajnandy&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![Adhiraj_Nandy's Stats](https://github-readme-stats.vercel.app/api?username=adhirajnandy&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adhirajnandy&theme=vue-dark)](https://git.io/streak-stats)
 </br>
 
